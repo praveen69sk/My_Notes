@@ -31,4 +31,5 @@ const fs = require('fs');
 //It's better to import only the specific function rather than importing entire module as mentioned above
 const fs = require('fs').writeFileSync;
 ```
-
+## How node js works
+![How NodeJs works!](./images/Screenshot%202025-03-20%20212229.png "How NodeJs Works")
