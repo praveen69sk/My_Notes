@@ -1,3 +1,5 @@
+>Code Step By Step
+
 # Nodejs is --> async and single threaded
 
 > Use nodemon package for live reloading purpose. install it globaly
@@ -16,7 +18,7 @@
 
 > 
 * fs
-* http
+* http 
 * path
   
 ## Global Modules:
@@ -33,3 +35,7 @@ const fs = require('fs').writeFileSync;
 ```
 ## How node js works
 ![How NodeJs works!](./images/Screenshot%202025-03-20%20212229.png "How NodeJs Works")
+
+## Express Js
+# Middleware
+# MongoDB
