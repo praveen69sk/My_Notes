@@ -12,8 +12,7 @@
 7. useActionState()
 8. useId()
 9. useReducer()
-    * --> When we have a big form with multiple fields, Then it's beter to go with useReducer() hook
-          Instead of useState() hook.
+    * --> When we have a big form with multiple fields, Then it's beter to go with useReducer() hook instead of useState() hook.
 
 > Controlled Components:
   Controlling the input elements with the help of state variables that is called Controlled components.
@@ -30,4 +29,7 @@
 ***
 
 ## React Router
+
+## Lazy Loading
+  * --> Import the component with lazy() and use suspence component
 
