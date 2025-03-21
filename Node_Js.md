@@ -5,7 +5,7 @@
 > Use nodemon package for live reloading purpose. install it globaly
 
 ## Ways to run the node js programs 
-* node ---> for using command line scripting
+* node ---> for using command line scripting (REPL)
 * node <filename.js> --> using files
 
 > For importing file use require()
@@ -21,6 +21,7 @@
 * http 
 * path
 * OS module
+* Events
   
 ## Global Modules:
 * Are the one no need to import, Directly we can use them.
