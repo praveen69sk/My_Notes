@@ -20,6 +20,7 @@
 * fs
 * http 
 * path
+* OS module
   
 ## Global Modules:
 * Are the one no need to import, Directly we can use them.
@@ -37,6 +38,8 @@ const fs = require('fs').writeFileSync;
 ![How NodeJs works!](./images/Screenshot%202025-03-20%20212229.png "How NodeJs Works")
 
 ## Express Js
-# Middleware
-# MongoDB
-# Mongoose
+## Middleware
+## MongoDB
+## Mongoose
+## Search API
+## Upload File  *--> Multer
