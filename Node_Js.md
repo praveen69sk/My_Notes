@@ -36,7 +36,7 @@ const fs = require('fs');
 const fs = require('fs').writeFileSync;
 ```
 ## How node js works
-![How NodeJs works!](./images/Screenshot%202025-03-20%20212229.png "How NodeJs Works")
+![How NodeJs works!](./images/nodejs-working.png "How NodeJs Works")
 
 ## Express Js
 ## Middleware
