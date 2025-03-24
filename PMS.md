@@ -14,7 +14,7 @@
                  SPRING_DATASOURCE_USERNAE=admin_user;
                  SPRING_DATASOURCE_PASSWORD=password;
                  SPRING_JPA_HIBERNATE_DDL_AUTO=update;
-                 SPRING_SQL_INT_MODE=always
+                 SPRING_SQL_INIT_MODE=always
 
 
 spring.datasource.url=jdbc:postgresql://patient-service-db:5432/db
