@@ -54,3 +54,5 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 ***
 
 ## Kafka
+        * --> Add kafka intellij plugin
+        * --> Setup Kafka Broker using docker image
