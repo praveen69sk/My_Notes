@@ -56,3 +56,5 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 ## Kafka
         * --> Add kafka intellij plugin
         * --> Setup Kafka Broker using docker image
+
+## Integration Test --> Using Rest Assured
