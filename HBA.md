@@ -20,3 +20,17 @@
 
 
 >mongodb+srv://praveen69sk:<db_password>@mern-booking-app-db.svfoatu.mongodb.net/?retryWrites=true&w=majority&appName=mern-booking-app-db
+
+***
+
+## Design the frontend layout 
+
+## Backend --> Register user api
+1. npm i bcryptjs jsonwebtoken
+2. npm i @types/bcryptjs @types/jsonwebtoken --save-dev
+
+## Frontend
+
+1. Use fetch API 
+3. Use --> useFor() hook
+2. Use react-query with useMutation
