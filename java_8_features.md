@@ -13,3 +13,26 @@
 ***
 
 ## Stream API --> forEach & filter method example
+1. filter --> for conditional check
+2. forEach --> for iteration
+
+## Sort a list using lambda stream api
+ * --> Traditional Way --> Collections.sort(object, lambda-comaprator) 
+1. Ascending --> sorted() --> sorted(lambda-expression)
+2. Descending --> sorted(Comparator.reverseOrder())
+
+## Method Reference
+
+![](./Java_8/image2.png)
+
+## Sort a Map using lambda stream api
+
+![](./Java_8/image4.png)
+
+![](./Java_8/image5.png)
+
+![](./Java_8/image6.png)
+***
+
+## Map() & flatMap()
+![](./Java_8/image7.png)
