@@ -58,3 +58,12 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
         * --> Setup Kafka Broker using docker image
 
 ## Integration Test --> Using Rest Assured
+
+***
+***
+
+## Deployment using --> Localstack -- AWS simulator
+1. VPC --> Virtual Private Cloud
+2. ECS --> Elastic Container Service
+3. ECS Cluster --> ECS Service --> ECS Task --> Manages the container
+4. ALB --> Application load balancer
