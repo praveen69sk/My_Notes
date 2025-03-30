@@ -36,3 +36,17 @@
 
 ## Map() & flatMap()
 ![](./Java_8/image7.png)
+
+![](./Java_8/image8.png)
+
+
+-------------------------------------------------
+***
+## Optional class
+
+## Map & Reduce
+![](./Java_8/image9.png)
+
+## Parallel Streams & Parallel data processing & Performance
+
+## Exception Handling --> Using Lambda
